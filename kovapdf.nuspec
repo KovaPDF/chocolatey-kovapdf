@@ -4,7 +4,7 @@
   <metadata>
     <id>kovapdf</id>
     <version>1.0.5</version>
-    <packageSourceUrl>https://github.com/kovapdf/windows-packages</packageSourceUrl>
+    <packageSourceUrl>https://github.com/KovaPDF/chocolatey-kovapdf</packageSourceUrl>
     <owners>KovaPDF</owners>
     <title>KovaPDF</title>
     <authors>KovaPDF</authors>
